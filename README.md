@@ -1,3 +1,3 @@
-# lc-academy-langgraph
+# Intro to Langgraph
 
-Learnings from the Langchain course: Intro to Langgraph
+Learnings from the Langchain course
